@@ -1,2 +1,0 @@
-*.xlsm linguist-language=Visual-Basic
-*.xlsm -crlf -diff -merge
